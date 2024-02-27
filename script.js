@@ -21,4 +21,4 @@ if (userAction === 'add' || userAction === '+') {
 }
 
 let test = 'я тест для гіта';
-let test2 = "я другий тест гіта";
+let tes3 = 'я тест другої гілки';
