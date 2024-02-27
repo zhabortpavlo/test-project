@@ -19,3 +19,5 @@ if (userAction === 'add' || userAction === '+') {
 } else {
     alert('Numbers pls')
 }
+
+let test = 'я тест для гіта';
