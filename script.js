@@ -17,7 +17,7 @@ if (userAction === 'add' || userAction === '+') {
     result = firstNumber / secondNumber;
     alert(`${firstNumber} / ${secondNumber} = ${result}`)
 } else {
-    alert('Numbers pls')
+    alert('Numbers pls');
 }
 
 let test = 'я тест для гіта';
